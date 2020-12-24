@@ -1,33 +1,21 @@
-<h1>Eat at Home
+#Eat at Home
 
 
-<h3>概要
-<br>
+## 概要
 取り寄せグルメ専門のECサイト
 
 
-<h3>コンセプト<br>
-***
-<br>
+## コンセプト
 美味しいものの取り寄せを簡単にする。
 
 
-<h3>バージョン
-<br>
-***
-<br>
+## バージョン
 Ruby 2.6.5
 Rails 5.2.4
 
 
-<h3>機能一覧
-<br>
-***
-<br>
-<h5>ユーザー向け機能
-<br>
-***
-<br>
+## 機能一覧
+#### ユーザー向け機能
 - ユーザー登録
 - ログイン
 - ユーザー情報編集
@@ -49,10 +37,7 @@ Rails 5.2.4
 
 - 退会
 
-<h5>事業者向け機能
-<br>
-***
-<br>
+#### 事業者向け機能
 - ユーザー登録依頼
 - ログイン
 - ユーザー情報編集
@@ -63,10 +48,7 @@ Rails 5.2.4
   - 商品詳細確認
   - 商品削除
 
-<h5>運営者向け機能
-<br>
-***
-<br>
+#### 運営者向け機能
 - ユーザー登録依頼
 - ログイン
 - ユーザー情報編集
@@ -84,27 +66,22 @@ Rails 5.2.4
   - 削除
 
 
-<h3>カタログ設計
-***
+## カタログ設計
 https://docs.google.com/spreadsheets/d/1LZmygH7ip3-PqLwiVvH4PLg-wey-oscCudlSCSq73yI/edit#gid=1570120316
 
 
-<h3>テーブル定義
-***
+## テーブル定義
 https://docs.google.com/spreadsheets/d/1-DY6hAwAik2MFspzimjxTeFp2pFSwtzgOO9v1byQC0I/edit#gid=1672184786
 
 
-<h3>画面遷移図
-***
+## 画面遷移図
 https://docs.google.com/spreadsheets/d/1gdlETXwZr2nQOJIqC0rYcWYxMkVZBBW3sBiwAp3vphc/edit#gid=0
 
 
-<h3>画面ワイヤーフレーム
-***
+## 画面ワイヤーフレーム
 https://docs.google.com/spreadsheets/d/1XdAZs4JunY_Q1gmcTOpO7e1XuplYTU91W_lIyJaSpZc/edit#gid=0
 
 
-<h3>使用予定Gem
-***
+## 使用予定Gem
 - devise
 - payjp
