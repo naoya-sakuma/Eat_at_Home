@@ -17,6 +17,8 @@ Rails 5.2.4
 ## 機能一覧
 #### ユーザー向け機能
 - ユーザー登録
+  - メールアドレスで登録
+  - Facebookアカウントで登録
 - ログイン
 - ユーザー情報編集
 
@@ -85,3 +87,4 @@ https://docs.google.com/spreadsheets/d/1XdAZs4JunY_Q1gmcTOpO7e1XuplYTU91W_lIyJaS
 ## 使用予定Gem
 - devise
 - payjp
+- omniauth
